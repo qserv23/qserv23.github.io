@@ -18,7 +18,7 @@ so-called Function-as-a-Service (FaaS) computing paradigm, that is nowadays
 offered by most popular cloud providers.
 
 However, current implementations of
-serverless have failed to fully realize this computing paradigm vision, and
+serverless struggle to fully realize this computing paradigm vision, and
 serverless adoption for many applications is slowed down. For instance,
 latency-sensitive applications cannot tolerate unpredictable cold start delays
 of FaaS platforms; also, stateful serverless applications are currently not well
