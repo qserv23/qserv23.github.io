@@ -28,6 +28,11 @@
   url = "#info"
   weight = 40
 
+[[main]]
+  name = "Registration"
+  url = "#registration"
+  weight = 41
+
 #[[main]]
 #  name = "dropdown"
 #  url = "#"

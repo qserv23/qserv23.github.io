@@ -9,6 +9,8 @@ weight = 21  # Order that this section will appear in.
 columns = "1"
 +++
 
+*Download as [TXT](/cfp.txt) or [PDF](/cfp.pdf).*
+
 Serverless computing has gained enormous popularity in recent years, promising
 seamless scalability, fine-grained pricing, and simplified management. According
 to the serverless paradigm, providers should take care of most operational
