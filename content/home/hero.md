@@ -42,7 +42,7 @@ hero_media = "logo.png"
 #  label = "Contact me"
 
 +++
-## International Workshop on **Quality of Service-Aware Serverless Computing** (QSERV 2023)
+## International Workshop on **Quality of Service-Aware Serverless Computing** (QServ '23)
 
 Co-located with [IEEE/ACM UCC 2023](https://ucc-conference.org/), which takes place in Taormina (Italy) - December
 4-7, 2023.
