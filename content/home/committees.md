@@ -15,7 +15,7 @@ columns = "2"
   <div class="col-lg-4 col-md-4 mb-4">
     <div class="card experience course shadow-sm rounded-0 border-0">
       <div class="card-body">
-        <a href="http://www.ce.uniroma2.it/~valeria/" target="_blank" rel="noopener">
+        <a href="https://www.matteonardelli.it/" target="_blank" rel="noopener">
           <h4 class="card-title exp-title text-muted my-0">Matteo Nardelli</h4>
           </a>
         <div class="card-subtitle my-0 article-metadata">
