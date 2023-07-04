@@ -15,5 +15,6 @@ title = "Program Committee"
  - Nitinder Mohan (TU Munich, Germany)
  - Rodric Rabbah (Nimbella)
  - Stefan Nastic (TU Wien, Austria)
+ - Radu Prodan (University of Klagenfurt, Austria)
 
 
