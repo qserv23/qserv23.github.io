@@ -7,14 +7,14 @@ weight = 40  # Order that this section will appear.
 title = "Program Committee"
 +++
 
- - Claudio Cicconetti (IIT-CNR, Italy)
  - David Bermbach (TU Berlin, Germany)
+ - Claudio Cicconetti (IIT-CNR, Italy)
  - David Eyers (University of Otago, New Zealand)
- - Emilio Incerto (IMT School For Advanced Studies Lucca, Italy)
  - Nikolas Herbst (University of Wuerzburg, Germany)
+ - Emilio Incerto (IMT School For Advanced Studies Lucca, Italy)
  - Nitinder Mohan (TU Munich, Germany)
- - Rodric Rabbah (Nimbella)
  - Stefan Nastic (TU Wien, Austria)
  - Radu Prodan (University of Klagenfurt, Austria)
+ - Rodric Rabbah (Nimbella)
 
 
