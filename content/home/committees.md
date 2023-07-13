@@ -39,7 +39,9 @@ columns = "2"
   <div class="col-lg-4 col-md-4 mb-4">
     <div class="card experience course shadow-sm rounded-0 border-0">
       <div class="card-body">
+        <a href="http://docenti.ing.unipi.it/c.vallati/" target="_blank" rel="noopener">
           <h4 class="card-title exp-title text-muted my-0">Carlo Vallati</h4>
+          </a>
         <div class="card-subtitle my-0 article-metadata">
             University of Pisa, Italy
 <span class="middot-divider"></span>
