@@ -10,7 +10,7 @@ on December 4-7, 2023.
 
 Important Dates
 ==================
- - Submission deadline: September 1, 2023
+ - Submission deadline (extended): September 19, 2023
  - Notification to authors: September 30, 2023
  - Camera-ready deadline: October 21, 2023
  - Workshop: December 4-7, 2023 (TBA)
@@ -72,6 +72,12 @@ originality,technical strength, rigour in analysis, quality of results, quality
 of presentation, and interest and relevance to the conference attendees. Your
 submission is subject to a determination that you are not under any sanctions
 by ACM. 
+
+The workshop adopts a double-blind review process, where neither authors nor
+reviewers know each other’s identities. This means that papers must not list
+or otherwise identify the authors. References to previous work should be done
+in the third person so as to not reveal the identities of the authors.
+Submissions that are not anonymous may be rejected without review.
 
 At least one author of each paper must be registered for the conference (full
 registration; non-workshop, non-student) in order for the paper to be published
