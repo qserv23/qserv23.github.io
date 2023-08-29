@@ -10,7 +10,7 @@ columns = "1"
 +++
 
 
-- Submission deadline: **September 1st, 2023**
+- Submission deadline (extended): **September 19th, 2023**
 - Notification to authors: September 30th, 2023
 - Camera-ready deadline: October 21st, 2023 
 - Workshop: December 4-7, 2023 (*TBA*)
