@@ -11,8 +11,8 @@ columns = "1"
 
 
 - Submission deadline (extended): **September 19th, 2023**
-- Notification to authors: September 30th, 2023
-- Camera-ready deadline: October 21st, 2023 
+- Notification to authors: October 25th, 2023
+- Camera-ready deadline: October 31st, 2023 
 - Workshop: December 4-7, 2023 (*TBA*)
 
 All times in *Anywhere on Earth* (AoE) timezone.
