@@ -9,6 +9,11 @@
   weight = 1
 
 [[main]]
+  name = "Program"
+  url = "#program"
+  weight = 11
+
+[[main]]
   name = "Dates"
   url = "#dates"
   weight = 10
